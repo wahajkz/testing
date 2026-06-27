@@ -1932,3 +1932,258 @@ a:hover {
         display: none;
     }
 }
+
+.sit {
+    display: flex;
+}
+
+.sit-1 {
+    height: 700px;
+    width: 1351px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.sit-2 {
+    height: 670px;
+    width: 1015px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.sit-4 {
+    height: 320px;
+    width: 1015px;
+    display: flex;
+    gap: 30px;
+}
+
+.sit-6 {
+    height: 320px;
+    width: 650px;
+    background-image: url(banner-05.jpg);
+    background-size: cover;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+.sit-6:hover {
+    filter: brightness(85%);
+}
+
+.sca {
+    height: 320px;
+    width: 650px;
+    display: flex;
+    flex-direction: column;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: 0.4s;
+}
+
+.sca:hover {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.sca-1 {
+    height: 40px;
+    width: 300px;
+    color: white;
+    font-size: 35px;
+    margin-top: 110px;
+    font-weight: 700;
+    margin-left: 40px;
+
+}
+
+
+.sca-2 {
+    height: 60px;
+    width: 300px;
+    margin-left: 40px;
+    font-size: 18px;
+    margin-top: 20px;
+    color: white;
+}
+
+.sca-3 {
+    height: 20px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 40px;
+    color: white;
+}
+
+.sca-4 {
+    height: 3px;
+    width: 110px;
+    margin-top: 7px;
+    background-color: white;
+    margin-left: 40px;
+}
+
+.sit-7 {
+    height: 320px;
+    width: 315px;
+    background-image: url(banner-06.jpg);
+    background-size: cover;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+.sit-7:hover {
+    filter: brightness(85%);
+}
+
+.sca-5 {
+    height: 320px;
+    width: 315px;
+    display: flex;
+    flex-direction: column;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: 0.4s;
+}
+
+.sca-5:hover {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.sca-6 {
+    height: 40px;
+    width: 280px;
+    color: white;
+    font-size: 32px;
+    margin-top: 120px;
+    font-weight: 700;
+    margin-left: 20px;
+
+}
+
+
+.sca-7 {
+    height: 50px;
+    width: 260px;
+    margin-left: 20px;
+    font-size: 16px;
+    margin-top: 20px;
+    color: white;
+}
+
+.sca-8 {
+    height: 20px;
+    width: 280px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+}
+
+.sca-9 {
+    height: 3px;
+    width: 110px;
+    margin-top: 7px;
+    background-color: white;
+    margin-left: 20px;
+}
+
+
+.sit-5 {
+    height: 320px;
+    width: 1015px;
+    display: flex;
+    gap: 30px;
+}
+
+.sit-8 {
+    height: 320px;
+    width: 315px;
+    background-image: url(banner-08.jpg);
+    background-size: cover;
+}
+
+.sit-8:hover {
+    filter: brightness(85%);
+}
+
+.sit-9 {
+    height: 320px;
+    width: 650px;
+    background-image: url(banner-09.jpg);
+    background-size: cover;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+.sit-9:hover {
+    filter: brightness(85%);
+}
+
+.sit-3 {
+    height: 670px;
+    width: 335px;
+    background-image: url(banner-07.jpg);
+    background-size: cover;
+    filter: brightness(85%);
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+.sca-10 {
+    height: 670px;
+    width: 315px;
+    display: flex;
+    flex-direction: column;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: 0.4s;
+}
+
+.sca-10:hover {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.sca-11 {
+    height: 40px;
+    width: 280px;
+    color: white;
+    font-size: 32px;
+    margin-top: 470px;
+    font-weight: 700;
+    margin-left: 30px;
+
+}
+
+
+.sca-12 {
+    height: 50px;
+    width: 260px;
+    margin-left: 30px;
+    font-size: 16px;
+    margin-top: 20px;
+    color: white;
+}
+
+.sca-13 {
+    height: 20px;
+    width: 280px;
+    margin-top: 20px;
+    margin-left: 30px;
+    color: white;
+}
+
+.sca-14 {
+    height: 3px;
+    width: 110px;
+    margin-top: 7px;
+    background-color: white;
+    margin-left: 30px;
+}
