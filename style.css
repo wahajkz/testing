@@ -1890,145 +1890,45 @@ a:hover {
     }
 
     .rent-1 {
-        width: 230px;
-    }
-
-    .rent-2 {
-        width: 230px;
-    }
-
-    .rent-3 {
-        width: 230px;
-    }
-
-    .rent-4 {
-        width: 230px;
-    }
-
-    .house {
-        width: 230px;
-        height: 180px;
-    }
-
-    .house-3 {
-        width: 230px;
-    }
-
-    .house-12 {
-        width: 230px;
-        height: 180px;
-    }
-
-    .house-15 {
-        width: 230px;
-    }
-
-    .house-24 {
-        width: 230px;
-        height: 180px;
-    }
-
-    .house-27 {
-        width: 230px;
-    }
-
-    .house-36 {
-        width: 230px;
-        height: 180px;
-    }
-
-    .house-39 {
-        width: 230px;
-    }
-
-    .house-1 {
-        display: none;
-    }
-
-
-    .house-13 {
-        display: none;
-    }
-
-
-    .house-25 {
-        display: none;
-    }
-
-
-    .house-37 {
         display: none;
     }
 
     .rent-6 {
-        width: 230px;
-    }
-
-    .rent-7 {
-        width: 230px;
-    }
-
-    .rent-8 {
-        width: 230px;
-    }
-
-    .rent-9 {
-        width: 230px;
-    }
-
-    .house-48 {
-        width: 230px;
-        height: 180px;
-    }
-
-    .house-51 {
-        width: 230px;
-    }
-
-    .house-60 {
-        width: 230px;
-        height: 180px;
-    }
-
-    .house-63 {
-        width: 230px;
-    }
-
-    .house-72 {
-        width: 230px;
-        height: 180px;
-    }
-
-    .house-75 {
-        width: 230px;
-    }
-
-    .house-84 {
-        width: 230px;
-        height: 180px;
-    }
-
-    .house-87 {
-        width: 230px;
-    }
-
-    .house-49 {
         display: none;
     }
+}
 
-
-    .house-61 {
-        display: none;
+@media (max-width: 430px) {
+    .deal-1 {
+        width: 430px;
+        height: 1950px;
     }
 
-
-    .house-73 {
-        display: none;
+    .deal-2 {
+        width: 400px;
     }
 
-
-    .house-85 {
-        display: none;
+    .deal-4 {
+        font-size: 15px;
     }
 
+    .deal-5 {
+        width: 400px;
+        height: 1700px;
+    }
+
+    .rent {
+        width: 400px;
+        display: block;
+        height: 1700px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        justify-content: space-evenly;
+    }
+
+    .rent-5 {
+        display: none;
+    }
 }
