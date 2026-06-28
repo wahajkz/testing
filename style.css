@@ -2187,3 +2187,68 @@ a:hover {
     background-color: white;
     margin-left: 30px;
 }
+
+@media (min-width: 431px) and (max-width: 1024px) {
+    .sit-1 {
+        width: 1024px;
+    }
+
+    .sit-3 {
+        display: none;
+    }
+}
+
+@media (max-width: 430px) {
+    .sit-1 {
+        width: 430px;
+        height: 1200px;
+    }
+
+    .sit-2 {
+        width: 430px;
+        height: 1200px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .sit-3 {
+        display: none;
+    }
+
+    .sit-4 {
+        display: flex;
+        flex-direction: column;
+        width: 410px;
+        height: 575px;
+    }
+
+    .sit-5 {
+        display: flex;
+        flex-direction: column;
+        width: 410px;
+        height: 575px;
+    }
+
+    .sit-6 {
+        width: 410px;
+        height: 280px;
+    }
+
+    .sit-7 {
+        width: 410px;
+    }
+
+    .sit-8 {
+        width: 410px;
+    }
+
+    .sit-9 {
+        width: 410px;
+        height: 280px;
+    }
+
+    .sca-1 {
+        margin-top: 40px;
+    }
+}
