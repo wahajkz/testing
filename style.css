@@ -2833,3 +2833,26 @@ a:hover {
         width: 380px;
     }
 }
+
+.map {
+    display: flex;
+}
+
+.map-1 {
+    width: 100%;
+    max-width: 1351px;
+    margin: auto;
+    overflow: hidden;
+}
+
+@media (min-width: 431px) and (max-width: 1024px) {
+    .map-1 {
+        width: 1024px;
+    }
+}
+
+@media (max-width: 430px) {
+    .map-1 {
+        width: 430px;
+    }
+}
