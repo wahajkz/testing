@@ -2483,3 +2483,114 @@ a:hover {
     font-size: 15px;
     margin-left: 15px;
 }
+
+@media (min-width: 431px) and (max-width: 1024px) {
+
+    .email-1 {
+        width: 1024px;
+    }
+
+    .email-2 {
+        width: 350px;
+    }
+
+    .email-3 {
+        width: 650px;
+    }
+
+    .con {
+        width: 600px;
+    }
+
+    .con-4 {
+        width: 280px;
+    }
+
+    .con-7 {
+        width: 280px;
+    }
+
+    .con-1 {
+        width: 600px;
+    }
+
+    .con-10 {
+        width: 280px;
+    }
+
+    .con-13 {
+        width: 280px;
+    }
+
+    .com {
+        width: 600px;
+    }
+
+    .com-3 {
+        width: 600px;
+    }
+
+    .com-4 {
+        width: 600px;
+    }
+
+}
+
+@media (max-width: 430px) {
+    .email-1 {
+        display: block;
+        width: 430px;
+        margin-top: 50px;
+        height: 1000px;
+    }
+
+    .email-2 {
+        width: 430px;
+        height: 400px;
+    }
+
+    .email-3 {
+        width: 430px;
+    }
+
+    .email-4 {
+        width: 350px;
+    }
+
+    .con {
+        width: 400px;
+    }
+
+    .con-4 {
+        width: 180px;
+    }
+
+    .con-7 {
+        width: 180px;
+    }
+
+    .con-1 {
+        width: 400px;
+    }
+
+    .con-10 {
+        width: 180px;
+    }
+
+    .con-13 {
+        width: 180px;
+    }
+
+    .com {
+        width: 400px;
+    }
+
+    .com-3 {
+        width: 400px;
+    }
+
+    .com-4 {
+        width: 400px;
+    }
+
+}
