@@ -3113,3 +3113,84 @@ a:hover {
     border-radius: 100px;
     margin-left: 20px;
 }
+
+@media (min-width: 431px) and (max-width: 1024px) {
+    .end-1 {
+        width: 1024px;
+    }
+
+    .end-2 {
+        width: 1000px;
+    }
+
+    .exp-3 {
+        display: none;
+    }
+
+    .end-3 {
+        width: 1024px;
+    }
+
+    .end-4 {
+        width: 1000px;
+    }
+
+    .cop-1 {
+        display: none;
+    }
+
+    .cop-2 {
+        display: none;
+    }
+
+    .cop-3 {
+        display: none;
+    }
+
+    .exp-2 {
+        width: 230px;
+    }
+
+    .exp-1 {
+        width: 300px;
+    }
+}
+
+@media (max-width: 430px) {
+    .end-1 {
+        height: 1100px;
+        width: 430px;
+    }
+
+    .end-2 {
+        height: 930px;
+        width: 400px;
+        display: block;
+    }
+
+    .end-3 {
+        width: 430px;
+    }
+
+    .end-4 {
+        width: 430px;
+    }
+
+    .cop {
+        font-size: 12px;
+        margin-left: 20px;
+    }
+
+    .cop-1 {
+        display: none;
+    }
+
+    .cop-2 {
+        display: none;
+    }
+
+    .cop-3 {
+        display: none;
+    }
+
+}
